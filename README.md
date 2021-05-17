@@ -16,4 +16,4 @@
 - npm start
 - enter address: http://localhost:5000
 3. результать 
-![Capture](./image/Capture.png)
+![Capture](./image/Capture.PNG)
